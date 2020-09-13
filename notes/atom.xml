@@ -11,7 +11,7 @@ layout: feed
 	<id>http://tobes898.github.io/blog</id>
 	<author>
 		<name>Toby Duncan</name>
-		<email>tobyduncan28@gmail.com</email>
+		<email>adventureguy898@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
